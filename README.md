@@ -1,4 +1,5 @@
 
+# REM BAT
 > CLS & CLS && SET /A "DNI=13+%RANDOM%%13" && CLS
 >
 > CLS & CLS && SET /A "MES=5+%RANDOM%%5" && CLS
